@@ -1,5 +1,6 @@
 # Instalker
-Download Instagram posts of any ID. (Even for the private IDs). Keep Stalking. Keep Downloading.
+Download Instagram posts of any ID. (Even for the private IDs).
+😎 Keep Stalking. Keep Downloading...💻
 
 
 ![instalker](https://user-images.githubusercontent.com/64016811/136140232-9df1a9de-27eb-4770-b983-6103c6a29342.jpg)
