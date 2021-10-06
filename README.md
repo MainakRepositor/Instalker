@@ -20,3 +20,8 @@ Download Instagram posts of any ID. (Even for the private IDs). Keep Stalking. K
 ## Possible Developments:
 - A loader animation that displays percentage of files downloaded.
 - A voice based downloader
+
+
+## Screenshot Demo:
+![image](https://user-images.githubusercontent.com/64016811/136140513-fb6fb075-1497-47a9-a453-debe8dc0d2ca.png)
+![image](https://user-images.githubusercontent.com/64016811/136140563-088f3e1e-28b5-4222-a7b3-dea00598ae78.png)
