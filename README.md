@@ -12,3 +12,11 @@ Download Instagram posts of any ID. (Even for the private IDs). Keep Stalking. K
 - Search for the file for the downloaded folders. It will contain the same name as the Insta ID
 - Open the downloaded folder and browse the data as per your need.
 
+## Edit the code:
+- Clone/download the repository.
+- Open a code editor of your choice.
+- Edit as you want. 
+
+## Possible Developments:
+- A loader animation that displays percentage of files downloaded.
+- A voice based downloader
